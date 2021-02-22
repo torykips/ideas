@@ -7,5 +7,6 @@
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
-- [ ] Mastering git
+- [x] Mastering git
 - [ ] Something new added here
+- [ ] Care and feeding of developers.
